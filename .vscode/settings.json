@@ -1,0 +1,8 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "c:\\Users\\erbjo\\vscode\\vsc-lvgl\\v5.0.5\\esp-idf",
+    "idf.toolsPathWin": "c:\\Users\\erbjo\\vscode\\vsc-lvgl\\v5.0.5\\esp-idf\\tools\\tools",
+    "idf.pythonInstallPath": "c:\\Users\\erbjo\\vscode\\vsc-lvgl\\v5.0.5\\esp-idf\\tools\\tools\\tools\\idf-python\\3.11.2\\python.exe",
+    "idf.flashType": "UART",
+    "idf.portWin": "COM3"
+}
