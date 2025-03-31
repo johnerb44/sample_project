@@ -1,7 +1,7 @@
 {
     "version":            "1",
     "project_name":       "main",
-    "project_version":    "1",
+    "project_version":    "b38a31d-dirty",
     "project_path":       "C:/Users/erbjo/vscode/projects-lvgl/sample_project",
     "idf_path":           "C:/Users/erbjo/vscode/vsc-lvgl/v5.0.5/esp-idf",
     "build_dir":          "C:/Users/erbjo/vscode/projects-lvgl/sample_project/build",
